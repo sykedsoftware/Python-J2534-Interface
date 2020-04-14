@@ -59,9 +59,9 @@ class UnlockAlgorithm:
     
         # print(seed)
         
-        KEY_CONSTANT_1 = 0x11111111       # HAHA YOU DIDNT REALLY THINK I WAS GONNA GIVE YOU AN ALGO FOR FREE DID YOU!!
+        KEY_CONSTANT_1 = 0xE72E3799       # HAHA YOU DIDNT REALLY THINK I WAS GONNA GIVE YOU AN ALGO FOR FREE DID YOU!!
 
-        KEY_CONSTANT_2 = 0x11111111
+        KEY_CONSTANT_2 = 0x1B64DB03       # No But I will. Also dont forget to pay your debts!!!
 
         AND_CONSTANT = 4294967295
 
